@@ -137,7 +137,9 @@ d3tree3 <- function(
     x,
     width = width,
     height = height,
-    package = 'd3treeR'
+    package = 'd3treeR',
+    dependencies = list(
+      d3r::d3_dep_v3()
   )
 }
 
