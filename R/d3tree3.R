@@ -140,6 +140,7 @@ d3tree3 <- function(
     package = 'd3treeR',
     dependencies = list(
       d3r::d3_dep_v3()
+    )
   )
 }
 
