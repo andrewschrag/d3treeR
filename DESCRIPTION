@@ -1,7 +1,7 @@
 Package: d3treeR
 Type: Package
 Title: Make Interactive Treemaps
-Version: 0.1
+Version: 0.11
 Date: 2015-07-17
 Authors@R: c(
       person(
